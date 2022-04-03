@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![aboumadi's 42 stats](https://badge.mediaplus.ma/darkgray/aboumadi)](https://github.com/oakoudad/badge42)
+-->
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/aboumadi" alt="aboumadi's 42 stats" /></a>
